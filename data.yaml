@@ -1,0 +1,8 @@
+path: /home/mankhoi/MealsRetrieval-ROOMELSA/BoundingBOx/mask detection/Box_data
+train: images/train
+val: images/val
+test: images/test 
+
+names:
+    0: masked object
+
